@@ -24,6 +24,10 @@ cd COS760ProjectRepo
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+cd into python code file
+run any python script
+to see results and accuracy etc run classicclassifiers.py and bertmodels.py
+
 ```
 All packages: 🚀 (can also be seen in requirements.txt)
 
