@@ -26,6 +26,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 cd into python code file
 run any python script
+if you get any errors saying "ModuleNotFoundError: No module named 'sklearn'" or "ModuleNotFoundError: No module named 'lime'" for example... just type pip install <module>
+example: "pip install scikit-learn" or "pip install lime"
+do this and eventually after installing packages itll let you run python files.
+
+if you get an error saying "OSError: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory."
+then run : "python -m spacy download en_core_web_sm"
+
+all cases have been accounted for... you should be able to run the python files following this guide!
+
+Thank you!
+
 to see results and accuracy etc run classicclassifiers.py and bertmodels.py
 
 ```
