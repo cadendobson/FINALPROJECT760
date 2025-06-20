@@ -165,6 +165,7 @@ websockets==12.0
 wordcloud==1.9.3
 wrapt==1.17.2
 
-
+# The code was enriched with AI assistance for clarity and improved output formatting.  
+# Generated with the help of copilot
 
 
